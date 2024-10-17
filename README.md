@@ -2,8 +2,7 @@
 
 ## **Introduzione**
 
-Benvenuto/a in **xchange**, una piattaforma innovativa per il baratto di vestiti! 
-Qui, gli utenti possono scambiare abiti tra di loro in modo semplice e sostenibile, senza dover ricorrere all'acquisto o alla vendita tradizionale. Il nostro obiettivo è ridurre lo spreco, promuovere l'economia circolare e fornire una soluzione più conveniente e green per rinnovare il proprio guardaroba.
+Benvenuto/a in **xchange**, una piattaforma innovativa per il baratto di vestiti! Qui, gli utenti possono scambiare abiti tra di loro in modo semplice e sostenibile, senza dover ricorrere all'acquisto o alla vendita tradizionale. Il nostro obiettivo è ridurre lo spreco, promuovere l'economia circolare e fornire una soluzione più conveniente e green per rinnovare il proprio guardaroba.
 
 Invece di acquistare nuovi vestiti, gli utenti possono **scambiare** capi che non indossano più con altri articoli di interesse, creando una community che valorizza il riutilizzo e lo scambio equo.
 
@@ -21,4 +20,14 @@ Per installare e avviare questa piattaforma localmente, segui questi passaggi:
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/username/nome-repo.git
+   git clone https://github.com/joshvanedwardabanico/xchange.git
+2. Entra nella directory del progetto:
+   ```bash
+   cd xchange
+3. Installa le dipendenze richieste:
+   ```bash
+   npm install
+4. Avvia l'applicazione:
+```bash
+npm start
+   
