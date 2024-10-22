@@ -15,20 +15,5 @@ Invece di acquistare nuovi vestiti, gli utenti possono **scambiare** capi che no
 - **Feedback degli utenti**: Sistema di valutazione per garantire scambi sicuri e di qualità all'interno della community.
 - **Piattaforma sostenibile**: Contribuisci a ridurre lo spreco di vestiti promuovendo il riutilizzo e il riciclo dei capi.
 
-## **Installazione**
 
-Per installare e avviare questa piattaforma localmente, segui questi passaggi:
-
-1. Clona il repository:
-   ```bash
-   git clone https://github.com/joshvanedwardabanico/xchange.git
-2. Entra nella directory del progetto:
-   ```bash
-   cd xchange
-3. Installa le dipendenze richieste:
-   ```bash
-   npm install
-4. Avvia l'applicazione:
-```bash
-npm start
    
