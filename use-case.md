@@ -12,7 +12,7 @@ is a visual representation of how users (or "actors") interact with a system to 
 3. The user2 evaluates the skill trade;
 4. The system notifies the user1 about the decision of user2;
 5. The system connects the two users through an internal chat;
-6. Both the users after 
+6. 
 7. 
 8.
 #### Extensions:
